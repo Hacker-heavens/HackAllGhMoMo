@@ -153,7 +153,7 @@ def hackbook():
 	file=open(passlist,'r')
 	
 	print("\nLoading Account  :",usr)
-	print("\033[1;91m[\033[1;97m*\033[1;91m]\033[1;92mLoading account from password ..." , '\033[1;91m', '\n' )
+	print("\033[1;91m[\033[1;97m*\033[1;91m]\033[1;92mLoading MoMo account ..." , '\033[1;91m', '\n' )
 	
 	i=0
 	while file:
