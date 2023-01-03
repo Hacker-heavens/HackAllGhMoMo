@@ -7,7 +7,6 @@ import time
 import os
 import threading
 import sys
-import requests
 from bs4 import BeautifulSoup
 import smtplib
 from time import sleep
